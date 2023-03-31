@@ -1,0 +1,33 @@
+.mbody{
+    background-color: rgb(41, 190, 206);
+}
+
+.mbackground{
+        width: 100px;
+        height: 150px;
+        clip-path: circle(50px at 50% 60%)  ;
+}
+
+.mstyle{
+    border-style: dashed;
+    width: 95%;
+    /* margin: auto;  */
+    border-width: 3px;
+    color: blue;
+}
+
+.ma{
+    color: black;
+}
+
+a:hover{
+    font-size: 50px;
+    color:red;
+    font-style: italic;
+}
+
+.mcontact{
+    /* text-align: center; */
+    color:rgb(7, 1, 13);
+    font-weight: 30;
+}

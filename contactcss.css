@@ -1,0 +1,49 @@
+
+main p{
+    font-style: italic;
+    font-weight: 800;
+    font-size: 14px;
+    color: rgb(126, 11, 11);
+}
+
+form label{
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.boxemail{
+    box-sizing: border-box;
+    border: 3px solid green;
+    width: 190px;
+}
+
+.boxtex{
+        box-sizing: border-box;
+        border: 3px solid green;
+        width: 190px;
+        height: 120px;
+}
+
+    /* {
+        box-sizing: content-box;
+        border: 5px solid red;
+        width: 190px;
+        height: 120px;
+    } 
+    border: 1px solid #cc0000;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    } */
+
+
+main .buttom{ 
+    background-color: rgb(19, 177, 106);
+    width: 50px;
+    height: 40px;
+    font-size: 14px;
+    font-weight: 700;
+    cursor:pointer;
+}
+

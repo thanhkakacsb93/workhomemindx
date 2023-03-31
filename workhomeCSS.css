@@ -1,0 +1,29 @@
+h2{
+    color: blueviolet;
+}
+
+.main1 .star{
+    color:yellow
+}
+
+/* .text{
+    border: 1px solid rgb(237, 100, 100);
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-align: justify;
+} */
+
+/* .exam1 {
+    box-sizing: border-box;
+    border: 5px solid green;
+    width: 190px;
+    height: 120px;
+}
+.exam2 {
+    box-sizing: content-box;
+    border: 5px solid red;
+    width: 190px;
+    height: 120px;
+} */
